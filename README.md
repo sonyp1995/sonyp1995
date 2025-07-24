@@ -142,5 +142,14 @@
 | Appreciation    | `:clap:`        | 👏     |
 | Achievement     | `:trophy:`      | 🏆     |
 
+### License
+
+1. Open your repository on GitHub.
+2. Click on “Add file” → “Create new file”
+3. In the filename box, type: License
+4. Now, click “Choose a license template” (this appears only when the file name is exactly LICENSE)
+5. Select a license (e.g., MIT, Apache 2.0, GPLv3, etc.)
+6. Scroll down and click “Review and submit”
+
 
 
